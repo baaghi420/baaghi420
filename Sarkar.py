@@ -8,9 +8,9 @@
 # ðŸ“² Installation âŸ©
 ```
 cd 
-rm -rf MR-SAVAGE 
-git clone --depth=1 https://github.com/BAAGHI420/MR-SAVAGE 
-cd MR-SAVAGE 
+rm -rf sarkar
+git clone --depth=1 https://github.com/BAAGHI420/sarkar 
+cd sarkar
 chmod 777 XD
 ./XD
 ```
